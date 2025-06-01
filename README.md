@@ -1,4 +1,4 @@
-#Aplikasi Pengolahan Citra
+##Aplikasi Pengolahan Citra
 
 📁 Fitur Dasar
 - Memuat gambar: Mendukung berbagai format seperti JPG, PNG, WEBP, BMP, TIF.  
